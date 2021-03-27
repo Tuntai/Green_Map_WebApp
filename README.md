@@ -1,8 +1,11 @@
 # Green Map
 Green Map is a web application, that will help people understand their contribution towards environment and will make everyone aware of their Carbon Offset.
 
-## Features :information_desk_person:
-
+## Features :sparkles:
+- :red_car: Calculate your Carbon Footprint while travelling from one place to another.
+- :deciduous_tree: Remove Carbon Offset by donating for Tree Plantation.
+- :four_leaf_clover: Go Carbon Neutral and contribute for a sustainable future.
+- :bike: Choose the right mode of Travel and Get a detailed rout.
 
 ## Technologies Used :hammer_and_wrench:
  - :construction: Back-End: Django, Sqlite3 Database
@@ -12,7 +15,7 @@ Green Map is a web application, that will help people understand their contribut
 ## <a href="https://greenmap-djapp.herokuapp.com/" target="blank">:sunflower: Give it a try!!</a>
 
 #### For testing you can create our own profile or use the following credentials :closed_lock_with_key:
-:robot: username: tuntai <br>
+:information_desk_person: username: tuntai <br>
 :key: password: Password@11
 
 <hr> 
