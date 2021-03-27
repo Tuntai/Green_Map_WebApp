@@ -17,7 +17,7 @@ Green Map is a web application, that will help people understand their contribut
 
 <hr> 
 
-## To run this web-app in your local systems :open_file_folder:
+## To run this web-app in your local systems :computer:
 
 ### 1. Pre-requisites:
 1. Python 3
@@ -25,7 +25,7 @@ Green Map is a web application, that will help people understand their contribut
 ### 2. Clone this Repo :
 ```sh
 git clone https://github.com/Tuntai/Green_Map_WebApp.git
-cd Zen-Mind
+cd Green_Map_WebApp
 ```
 You can also download the folder and extract all the files in your local system.<br>
 Open your IDE install the requirements.
