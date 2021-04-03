@@ -14,10 +14,6 @@ Green Map is a web application, that will help people understand their contribut
 
 ## <a href="https://greenmap-djapp.herokuapp.com/" target="blank">:sunflower: Give it a try!!</a>
 
-#### For testing you can create our own profile or use the following credentials :closed_lock_with_key:
-:information_desk_person: username: tuntai <br>
-:key: password: Password@11
-
 <hr> 
 
 ## To run this web-app in your local systems :computer:
