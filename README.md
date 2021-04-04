@@ -14,6 +14,8 @@ Green Map is a web application, that will help people understand their contribut
 
 ## <a href="https://greenmap-djapp.herokuapp.com/" target="blank">:sunflower: Give it a try!!</a>
 
+## ScreenShots
+![Screenshot1](greenmap.png) 
 <hr> 
 
 ## To run this web-app in your local systems :computer:
