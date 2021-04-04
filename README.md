@@ -1,5 +1,7 @@
 # Green Map
-Green Map is a web application, that will help people understand their contribution towards environment and will make everyone aware of their Carbon Offset.
+Green Map is a web application, that will help people understand their contribution towards environment and will make everyone aware of their Carbon Offset. <br>
+
+**:medal_sports: Jury Award Winner at Spârkåthon by NMIMS Navi Mumbai! :partying_face:** <br>
 
 ## Features :sparkles:
 - :red_car: Calculate your Carbon Footprint while travelling from one place to another.
