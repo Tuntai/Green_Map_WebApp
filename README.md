@@ -12,7 +12,7 @@ Green Map is a web application, that will help people understand their contribut
  - :computer: Front-End: Bootstrap, Html5, Css3, JavaScript, jquery
  - :gear: Mapbox Api, Airquality Api
 
-## <a href="https://greenmap-djapp.herokuapp.com/" target="blank">:rocket: Give it a try!!</a>
+### <a href="https://greenmap-djapp.herokuapp.com/" target="blank">:arrow_forward: Give it a try!!</a>
 
 ## ScreenShots :camera_flash:
 ![Screenshot1](greenmap.png) 
